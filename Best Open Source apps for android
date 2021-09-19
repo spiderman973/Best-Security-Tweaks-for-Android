@@ -1,0 +1,11 @@
+Hello, I'm The Spiderman 973 and I will show you the best open source apps for Android
+
+
+So, The First One is F-Droid F-droid is a Repository of Free & Open Source Software here you can find foss alternatives to your existing proprietary/closed-source apps
+And, The Second One is Bromite Bromite is Privacy-Focused Security-Hardened browser, based on Chromium (Not Chrome) It has a plethora of Privacy and Security featured like disabling jit compilers disabling floc by default and etc. It is only avalible on Official Bromite F-Droid Repository you have to add it manually. repository link: https://fdroid.bromite.org/fdroid/repo? Repository Fingerprint: E1EE5CD076D7B0DC84CB2B45FB78B86DF2EB39A3B6C56BA3DC292A5E0C3B9504
+The, Third One is Aurora Store Aurora Store is a Unofficial Google Play Store Client It relies on your device's webview to download apps it creates an anynomous account for you and allows spoofing your country and device model there is an option to login with your own google account, but don't do it if you use your google account in aurora store google can anytime suspend your google account
+(this is a wonderful app) Invizible Pro oh my god It has an app firewall to block internet access for individual apps and it uses dnscrypt,doh for dns encryption it provides protection against dns rebinding attacks, arp spoofing attacks, and also blocks the website when an attacks is detected It also has Tor,I2P it has domains blacklist so you can blaklist domains it also has ip addresses blacklist so you can blacklist specific ip addresses
+next, AppOpsX on F-droid Appops is app that allows you to deny permissions that cannot be denied in normal permission manager it uses root or adb shell
+wow, Aegis Aegis is a 2FA app that allows you to generate 2FA Codes for your online account it has encryption meaning that if you want to unlock your vault or backup your 2FA Codes the will only be accessible using a password
+
+Not, Worry I will add more
